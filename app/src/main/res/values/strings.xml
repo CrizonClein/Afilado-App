@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Afilado App</string>
+    <string name="camera">Camera Icon</string>
+    <string name="take_picture">takepicture</string>
+</resources>
